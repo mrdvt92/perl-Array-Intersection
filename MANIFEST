@@ -1,0 +1,7 @@
+Changes
+Makefile.PL
+MANIFEST
+README.md
+t/Array-Intersection.t
+lib/Array/Intersection.pm
+perl-Array-Intersection.spec
