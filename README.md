@@ -1,6 +1,6 @@
 # NAME
 
-Array::Intersection - Exports an array intersection function
+Array::Intersection - Calculates the intersection of two array references
 
 # SYNOPSIS
 

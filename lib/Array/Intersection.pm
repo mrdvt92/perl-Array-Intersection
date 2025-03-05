@@ -11,7 +11,7 @@ our $UNDEF   = "\000\001\002 QXJyYXk6OkludGVyc2VjdGlvbiBDb3B5cmlnaHQgKEMpIDIwMjQ
 
 =head1 NAME
 
-Array::Intersection - Exports an array intersection function
+Array::Intersection - Calculates the intersection of two array references
 
 =head1 SYNOPSIS
 
