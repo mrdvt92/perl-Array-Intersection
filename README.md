@@ -9,7 +9,7 @@ Array::Intersection - Calculates the intersection of two array references
 
 # DESCRIPTION
 
-This package exports the intersection() function which uses the magic of a hash slice to return an intersection of the data.  i
+This package exports the intersection() function which uses the magic of a hash slice to return an intersection of the data.
 
 ## LIMITATIONS
 
