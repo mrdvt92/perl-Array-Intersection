@@ -10,4 +10,20 @@ WriteMakefile(
     ABSTRACT_FROM     => 'lib/Array/Intersection.pm',
     AUTHOR            => 'Michael R. Davis <MRDVT>',
     LICENSE           => 'mit',
+  'META_MERGE' => {
+    'meta-spec' => {
+      'version' => 2
+    },
+    'resources' => {
+      'bugtracker' => {
+        'web' => 'https://github.com/mrdvt92/perl-Array-Intersection/issues'
+      },
+      'homepage' => 'https://github.com/mrdvt92/perl-Array-Intersection',
+      'repository' => {
+        'url' => 'git@github.com:mrdvt92/perl-Array-Intersection.git',
+        'web' => 'https://github.com/mrdvt92/perl-Array-Intersection.git',
+        'type' => 'git'
+      }
+    }
+  },
 );

@@ -6,7 +6,7 @@ require Exporter;
 our @ISA = qw(Exporter);
 our @EXPORT = qw(intersection);
 
-our $VERSION = '0.02';
+our $VERSION = '0.03';
 our $UNDEF   = "\000\001\002 QXJyYXk6OkludGVyc2VjdGlvbiBDb3B5cmlnaHQgKEMpIDIwMjQgYnkgTWljaGFlbCBSLiBEYXZpcw== \002\001\000"; #hash keys cannot be undef()
 
 =head1 NAME

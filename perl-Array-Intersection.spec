@@ -1,5 +1,5 @@
 Name:           perl-Array-Intersection
-Version:        0.02
+Version:        0.03
 Release:        1%{?dist}
 Summary:        Exports an array intersection function
 License:        MIT
